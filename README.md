@@ -1,7 +1,7 @@
 ## Thi giua ky NodeJs
 ## How to run this?
 
-`git clone https://github.com/Than2210/thigiuakynodejs`
+`git clone https://github.com/Than2210/thigiuakynodejs.git`
 
 # create:
 
